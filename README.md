@@ -21,7 +21,7 @@ The application provides a cosmic experience by fetching real-time data from spa
 ## How to Run
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone https://github.com/ValentinaPertile/Web-Page-proyect-for-Web-Technology-and-Management-Course.git
 2. Open indice.html in any modern web browser.
 3. Explore the space data!
 
