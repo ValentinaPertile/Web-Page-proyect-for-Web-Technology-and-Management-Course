@@ -22,3 +22,11 @@ The application provides a cosmic experience by fetching real-time data from spa
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+2. Open indice.html in any modern web browser.
+3. Explore the space data!
+
+
+### Academic Context
+Course: Web Technology and Management.
+Project Date: May 2025.
+Objective: Apply web development best practices, manage asynchronous requests, and implement a structured UI/UX.
